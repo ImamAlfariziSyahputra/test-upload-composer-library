@@ -1,5 +1,5 @@
 {
-  "name": "imam/php-composer-make-library",
+  "name": "mamlzy/php-composer-make-library",
   "description": "membuat custom library di composer",
   "type": "library",
   "authors": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "imam\\Belajar\\": "src/"
+      "mamlzy\\Belajar\\": "src/"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace imam\Belajar;
+namespace mamlzy\Belajar;
 
 class Customer
 {
