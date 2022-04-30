@@ -1,5 +1,5 @@
 {
-  "name": "imam/php-composer-make-library",
+  "name": "programmerzamannow/php-composer-make-library",
   "description": "membuat custom library di composer",
   "type": "library",
   "authors": [
